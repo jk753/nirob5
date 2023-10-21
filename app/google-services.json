@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916617223002",
+    "project_id": "niroblabmcasuna",
+    "storage_bucket": "niroblabmcasuna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916617223002:android:cd8479cea939a95ff63163",
+        "android_client_info": {
+          "package_name": "com.niroblab.mcasuna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrLtdSuDDIDs3UXE2inuafwaTs3hThlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
